@@ -1,8 +1,11 @@
 # 💫 About Me:
 👉I’m a competitive programmer | web developer and studies at B.Sc in Computer Science & Engineering<br>👉I’m currently working on Fornt-End development<br>👉I’m currently learning the MERN stack<br>👉Ask me about competitive programming , MERN stack development, or optimizing code efficiency<br>👉How to reach me: mohammadsazzad1430@gmail.com<br>
 
-## 🚀 Deployed Porject:
-![digiso-react.vercel.app](https://digiso-react.vercel.app/)
+## 🚀 Deployed Porjects:
+👉Forntend Project develop with Nextjs : [digiso-react.vercel.app](https://digiso-react.vercel.app/) <br>
+👉Fullstack Project develop with MERN stack : [civic-issues](https://civic-issues-fontend.vercel.app/) <br>
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sazzad.hossain.676804) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sazzad-hossain-7486b0322) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadsazzad1430@gmail.com) 
 
